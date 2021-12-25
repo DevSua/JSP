@@ -1,11 +1,13 @@
 # 부산학생통역 협회 JSP
 
-1. main.html
+1. 메인화면 (main.html css)
  
 ![image](https://user-images.githubusercontent.com/49021626/147387733-da2b7d20-2a40-4b5d-bec6-a5d1e25e6f90.png)
 
-2. 로그인
+2. 로그인, 회원가입 (join.jsp, join_check.jsp, login.jsp, logout.jsp)
+ 
 Oracle DB를 이용해 정보저장.
+
 ![image](https://user-images.githubusercontent.com/49021626/147387754-4af09165-571a-4e94-8966-5d19f6694677.png)
 
 
@@ -15,7 +17,7 @@ Oracle DB를 이용해 정보저장.
 글작성, 검색, 전체글 보여주기 
 
 
-5. 과제게시판
+5. 과제게시판 (fileupload,fileupload_pro)
 
 ![image](https://user-images.githubusercontent.com/49021626/147387786-2e831894-0eb0-467d-a917-6c568629e5bf.png)
 ![image](https://user-images.githubusercontent.com/49021626/147387791-7e30924a-1546-4029-b206-3a0f15e811ee.png)
